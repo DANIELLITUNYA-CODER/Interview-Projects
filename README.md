@@ -1,1 +1,1 @@
-Solution to pascal triangle
+Solution to interview questions
