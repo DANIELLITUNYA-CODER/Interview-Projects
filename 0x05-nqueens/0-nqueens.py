@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/
 """ N queens """
 import sys
 
