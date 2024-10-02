@@ -91,7 +91,3 @@ To run the Python scripts:
 ## License
 
 This repository is licensed under the [MIT License](./LICENSE).
-
----
-
-Feel free to modify the sections based on any additional requirements or information specific to your projects!
