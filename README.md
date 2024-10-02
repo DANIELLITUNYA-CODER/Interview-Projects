@@ -1,6 +1,3 @@
-Here's a structured `README.md` file that you can use for your GitHub repository:
-
----
 
 # ALX Interview
 
