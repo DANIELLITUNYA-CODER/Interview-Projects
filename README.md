@@ -1,5 +1,5 @@
 
-# ALX Interview
+# Interview
 
 This repository contains solutions to a series of technical interview challenges from the ALX Software Engineering curriculum. Each directory represents a project with solutions implemented in Python.
 
